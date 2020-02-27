@@ -1,0 +1,4 @@
+pandas_datareader
+matplotlib
+tensorflow==1.6
+sklearn
